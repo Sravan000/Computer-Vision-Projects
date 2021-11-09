@@ -1,0 +1,5 @@
+install these libraies		numpy
+							opencv-python
+							scikit-image
+Open cmd at same folder as the project is
+run command: python cartoon.py
